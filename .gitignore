@@ -27,3 +27,6 @@
 /.nb-gradle/
 logs/
 dependency-reduced-pom.xml
+
+/patchs/
+/patchs/*
